@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">practice</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="signin">Sign-in</string>
+    <string name="cancel">Cancel</string>
+    <string name="signup">Sign-up</string>
+</resources>
